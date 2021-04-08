@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "618494333435",
+    "project_id": "all-in-one-pakistan-admi-75b64",
+    "storage_bucket": "all-in-one-pakistan-admi-75b64.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618494333435:android:d3940e0f60b04896b77b5e",
+        "android_client_info": {
+          "package_name": "com.codies.allinonepakistanadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx6lYoBRBvt8zpyIWZGI5FjG6-RaaySMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "618494333435-88aqdg4bqv2a485djuhhi8gpdnvjuoc0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
